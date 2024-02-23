@@ -6,7 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tompkinsm2016/Decentralized-Document-Management-System-DDMS-"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "3": "^2.1.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "ipfs": "^0.66.1",
+    "web": "^0.0.2"
+  }
 }
